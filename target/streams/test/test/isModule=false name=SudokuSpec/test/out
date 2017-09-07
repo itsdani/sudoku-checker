@@ -1,0 +1,6 @@
+[0m[[0minfo[0m] [0m[32mSudokuSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mSudokuChecker[0m[0m
+[0m[[0minfo[0m] [0m[32m  when input is not square[0m[0m
+[0m[[0minfo[0m] [0m[32m  - should return false[0m[0m
+[0m[[0minfo[0m] [0m[32m  when solution is correct[0m[0m
+[0m[[0minfo[0m] [0m[32m  - should return true[0m[0m
