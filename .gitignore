@@ -1,6 +1,9 @@
 # custom excludes
 target/
 project/
+*.*~
+.DS_Store
+.idea/
 # Created by https://www.gitignore.io/api/sbt,maven,scala,gradle,intellij
 
 ### Intellij ###
