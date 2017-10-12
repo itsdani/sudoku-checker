@@ -1,3 +1,5 @@
+package sudokuchecker
+
 import org.scalatest.{Matchers, WordSpec}
 
 class SudokuCheckerSpec extends WordSpec with Matchers {

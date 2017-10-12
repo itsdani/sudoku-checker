@@ -1,3 +1,5 @@
+package sudokuchecker
+
 object SudokuChecker {
   def check(board: List[List[Int]]): Boolean = {
     isBoardSquare(board) &&
